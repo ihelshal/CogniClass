@@ -1,4 +1,4 @@
-<h1 align="center">Face Classification</h1>
+<h1 align="center">CongiClass</h1>
 <p align="center">
   Identifying the Challenges in Classroom Engagement and Evaluation.
 
