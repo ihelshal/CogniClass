@@ -1,11 +1,13 @@
 <h1 align="center">Face Classification</h1>
 <p align="center">
-  In this project, one or more human faces are detected in real time and predictions are made about the faces detected by AI models trained in the background.
+  Identifying the Challenges in Classroom Engagement and Evaluation.
+
+  Our proposed solution aims to address the challenges faced in classroom engagement and evaluation by establishing a user-friendly and Ministry of Education-approved platform. 
 <p>
 
 ---
 
-<h2> Emotion Recognition </h2>
+<h2> Focusing Performance </h2>
 <p>
   I used only Transfer Learning models in this project to get faster and better results.
   For Emotion Recognation:
@@ -21,7 +23,8 @@
   I experimented with transfer learning models. I used the Xception model in this section because it gives the best result.
 </p>
 
-If you want to run real time face emotion recognition:
+If you want to run real-time Focusing Performance, create a folder named 'DataTest' and add your video. Then, run the FocusingPerformance.py script.
+
 ```python
-python emotionRecognition.py
+python FocusingPerformance.py
 ```
