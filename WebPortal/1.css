@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+header{
+  
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.navarea{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+
+}
+.navarea li{
+    display: inline-block;
+}
+.navarea li a{
+    color: #2a39b0;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size: 25px;
+
+}
+.navarea li a:hover{
+    background: #ffffff;
+    color:#1f1481;
+}
+.logo img{
+    width: 250px;
+    float: left;
+    height: auto;
+}
+.welcometext{
+    width: 100px;
+    float: left;
+    height: auto;
+    position: absolute;
+    padding-left: 43px;
+
+}
+.welcometext img{
+    width: 150px;
+    float: left;
+    height: 150px;
+    padding-top: 150px;
+    padding-right:300px;
+}
+
+html,
+body {
+height: 100%;
+margin: 0px;
+}
+
+
+.welcometext p {
+    padding-top:10px;
+    margin-bottom: 10px;
+    color: #2c2496;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcometext strong {
+    font-weight: bold;
+}
+
+.charts{
+    width: 200px;
+    float: right;
+    height: 200x;
+    padding-top: 150px;
+
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+    margin:auto;
+    color:rgb(15, 15, 128);
+    width: 100%;
+    text-align:center;
+   
+}
+
+.imagewrapper {
+    display:flex
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-top:50px;
+    width:1000px;
+    padding-left: 400px;
+   
+  }
+  
+  .image {
+    width: 40%; /* Adjust the width as per your requirement */
+    padding:5px
+  }
+  
+  .image img {
+    width: 100%;
+    /* padding-top: 200px;
+    padding-left:500px; */
+  }
+.button{
+    margin-left: 500px;
+    width:150px;
+    height:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
