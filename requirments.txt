@@ -1,0 +1,7 @@
+opencv-python==4.7.0.72
+dlib==19.24.1
+numpy==1.24.2
+keras==2.13.1rc0
+tensorflow==2.13.0rc0
+tensorflow-estimator==2.13.0rc0
+tensorflow-macos==2.13.0rc0
